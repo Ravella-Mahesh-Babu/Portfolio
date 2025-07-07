@@ -1,0 +1,30 @@
+body{
+    background-color:tan;
+    font-family: Arial, Helvetica, sans-serif;
+    color: black;
+    line-height: 1.6;
+}
+
+.abt{
+    padding: 10px;
+    background-color:floralwhite;
+    margin-top: 150px;
+}
+
+.nav-links{
+    list-style: none;
+    display: flex;
+    justify-content: center;
+    padding: 10px 0;
+}
+
+.nav-links a {
+    color: black;
+    text-decoration: none;
+    font-weight: bold;
+    margin:10px;
+}
+
+.nav-links a:hover {
+    color:darkred;
+}
