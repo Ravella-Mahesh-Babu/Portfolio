@@ -76,14 +76,14 @@ npm run preview
 
 ### GitHub Pages
 
-Live URL: https://Ravella-Mahesh-Babu.github.io/portfolio/
+Live URL: https://Ravella-Mahesh-Babu.github.io/Portfolio/
 
-1. Push this repo to `Ravella-Mahesh-Babu/portfolio`.
+1. Push this repo to `Ravella-Mahesh-Babu/Portfolio`.
 2. In the repo: **Settings → Pages → Source → GitHub Actions**.
 3. Add a repository secret named `VITE_FORMSPREE_ID` with value `mgaanqdn`.
 4. Push to `main` (or run the **Deploy to GitHub Pages** workflow).
 
-`vite.config.js` already uses `base: '/portfolio/'`.
+`vite.config.js` already uses `base: '/Portfolio/'`.
 
 ### Vercel / Netlify
 
